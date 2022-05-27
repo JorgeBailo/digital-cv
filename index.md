@@ -1,7 +1,3 @@
-# Jorge Bailo Estallo
-
-_Programador Web Back-End_ <br>
-
 [Email](mailto:contacto@jorgebailo.es) / [Website](https://www.jorgebailo.es/) / [LinkedIn](http://es.linkedin.com/in/jorgebailo) / [GitHub](https://github.com/JorgeBailo/) / [Twitter](https://twitter.com/BailoJorge)
 
 ## Experiencia
